@@ -13,7 +13,7 @@
 [servers]
 
 
-#ubuntu1 ansible_host=192.168.1.120 ansible_ssh_private_key_file=~/.ssh/idrsa
+ubuntu1 ansible_host=10.1.1.1 ansible_ssh_private_key_file=/home/steve/.ssh/id_rsa
 
 
 

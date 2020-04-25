@@ -1,6 +1,6 @@
 ---
 
-- name: update ubuntu servers
+- name: add user with ssh key
 
   hosts: servers
   become: yes
